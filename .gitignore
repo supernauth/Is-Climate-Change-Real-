@@ -4,3 +4,13 @@ datasets/GlobalLandTemperaturesByCountry.csv
 datasets/GlobalLandTemperaturesByMajorCity.csv
 datasets/GlobalLandTemperaturesByState.csv
 datasets/GlobalTemperatures.csv
+datasets/daily/eghajlati_adatsor_1901-2020+Budapest.zip
+datasets/daily/eghajlati_adatsor_1901-2020+Debrecen.zip
+datasets/daily/eghajlati_adatsor_1901-2020+Pecs.zip
+datasets/daily/eghajlati_adatsor_1901-2020+Szeged.zip
+datasets/daily/eghajlati_adatsor_1901-2020+Szombathely.zip
+datasets/daily/source/eghajlati_adatsor_1901-2020+Budapest.zip
+datasets/daily/source/eghajlati_adatsor_1901-2020+Debrecen.zip
+datasets/daily/source/eghajlati_adatsor_1901-2020+Pecs.zip
+datasets/daily/source/eghajlati_adatsor_1901-2020+Szeged.zip
+datasets/daily/source/eghajlati_adatsor_1901-2020+Szombathely.zip
