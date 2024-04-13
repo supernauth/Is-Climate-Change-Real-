@@ -24,3 +24,11 @@ In order to see this, I analysed the separate months' average, from 1755 and fro
 
 Looking at the two multiplots, I see that every month's temperature have risen, but the 3 summer months have the strongest increase.
 Following from these, I would not say that the seasons moved, the spring we have now is the now spring, the summer is even hotter. The present spring is just much alike the summers we used to have before.
+
+## The precipitation analysis
+For this purpose, I used the Hungarian Meteorological Service's Climate Data Series (1901-2020), expanded the analysis for 5 cities.
+
+People say that we have fewer rains with bigger amount of precipitation. For this, I calculated the average amount for the days where there were any precipitation. Looking at the plot, I could not say that I see a trend for this.
+To give a second chess to the hypothesis, I also calculated the number of rainy days for each year, but it is even more permanent.
+I made another plot for the yearly maximum precipitation, but I would not draw a conclusion.
+The last plot is about the days where there were more than 20 mm precipitation, with a 5-year moving average. I see a slight decrease instead of an increase, but the average is rather flat.
