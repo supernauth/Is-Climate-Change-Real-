@@ -32,3 +32,11 @@ People say that we have fewer rains with bigger amount of precipitation. For thi
 To give a second chess to the hypothesis, I also calculated the number of rainy days for each year, but it is even more permanent.
 I made another plot for the yearly maximum precipitation, but I would not draw a conclusion.
 The last plot is about the days where there were more than 20 mm precipitation, with a 5-year moving average. I see a slight decrease instead of an increase, but the average is rather flat.
+
+# Conclusion
+I must say that the temperature is clearly rising, unfortunately. It has some little variability, but the trend is clear.
+Regarding the precipitation, I cannot say that there is any severe change what I can see in the datasets. The average amount and its distribution is also quite constant.
+
+# Future plans
+People like to say that we have stronger winds than before, so it would be useful to examine this, but I could not find any good dataset about that, yet.
+The newest frequent phenomenon is the desert sand in the atmosphere abova Hungary, but I am unaware of any statistics regarding that topic.
