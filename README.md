@@ -1,4 +1,4 @@
-<center><figure><img src="https://qph.cf2.quoracdn.net/main-qimg-fb354b6f12289efbd4e41d595820f13a-lq" style="width: 400px; height: 200px; float: right; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
+<center><figure><figcaption style="background-color: #222; color: #fff; font: italic smaller sans-serif; padding: 3px; text-align: center;"><img src="https://qph.cf2.quoracdn.net/main-qimg-fb354b6f12289efbd4e41d595820f13a-lq" style="width: 400px; height: 200px; float: right; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
 <figcaption>Signs of desertification in Hungary</figcaption>
 </figure></center>
 
@@ -47,21 +47,3 @@ Regarding the precipitation, I cannot say that there is any severe change what I
 People like to say that we have stronger winds than before, so it would be useful to examine this, but I could not find any good dataset about that, yet.
 The newest frequent phenomenon is the desert sand in the atmosphere abova Hungary, but I am unaware of any statistics regarding that topic.
 
-<style>
-figure {
-  border: thin #c0c0c0 solid;
-  display: flex;
-  flex-flow: column;
-  padding: 5px;
-  max-width: 220px;
-  margin: auto;
-}
-
-figcaption {
-  background-color: #222;
-  color: #fff;
-  font: italic smaller sans-serif;
-  padding: 3px;
-  text-align: center;
-}
-</style>
