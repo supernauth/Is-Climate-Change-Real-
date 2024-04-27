@@ -1,4 +1,6 @@
-<img src="https://qph.cf2.quoracdn.net/main-qimg-fb354b6f12289efbd4e41d595820f13a-lq" style="width: 400px; height: 200px; float: right; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
+<center><figure><img src="https://qph.cf2.quoracdn.net/main-qimg-fb354b6f12289efbd4e41d595820f13a-lq" style="width: 400px; height: 200px; float: right; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
+<figcaption>Signs of desertification in Hungary</figcaption>
+</figure></center>
 
 # Is Climate Change Real?
 It has become trendy in Hungary to claim the climate change is just nut present, that it's just a hoax.
@@ -18,8 +20,10 @@ First, I examined the yearly average temperature for each city. As I expected, I
 I made a separate plot about the time period from the 1970's. The parallelism can be clearly seen, we can see that the increase is even steeper from 2006-2011.
 I made another plot to check if the parallelism is still present examined month by month. It is, so I went on only with Budapest's dataset. At this time, the absence of the data from 2014 bothered me, so I looked for another data source, I found Weather Underground's dataset.
 
-Continuing with the expanded dataset, the rise which began in the 1970's is more spectacular. There are some high and low values, but looking at the 5-year average, the trend is unequivocal.
+Continuing with the expanded dataset, the rise which began in the 1970's is more spectacular. There are some high and low values, but looking at the 5-year average, the trend is unequivocal.  
 
+<center><img src="illustration.png" style="width: 992px; height: 568px; margin: 10px; border: 2px solid #000; box-sizing: border-box;"></center>
+  
 ### Analysis of season's change
 People like to say that seasons' position have moved, but it is hard to remember how exactly things happened long ago. One's memory can fail him/her.
 In order to see this, I analysed the separate months' average, from 1755 and from 1970.
