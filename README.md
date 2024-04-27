@@ -22,7 +22,7 @@ I made another plot to check if the parallelism is still present examined month 
 
 Continuing with the expanded dataset, the rise which began in the 1970's is more spectacular. There are some high and low values, but looking at the 5-year average, the trend is unequivocal.  
 
-<center><img src="illustration.png" style="width: 992px; height: 568px; margin: 10px; border: 2px solid #000; box-sizing: border-box;"></center>
+<center><img src="illustration.png" style="width: 993px; height: 579px; margin: 10px; border: 2px solid #000; box-sizing: border-box;"></center>
   
 ### Analysis of season's change
 People like to say that seasons' position have moved, but it is hard to remember how exactly things happened long ago. One's memory can fail him/her.
